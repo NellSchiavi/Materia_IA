@@ -16,10 +16,14 @@ desenvolvidos ao longo do semestre armazenando os avanços e aprendizados com a 
 | Arquivo | Conteúdo | Data |
 |---|---|---|
 | `Exercícios_Python_Nelson_Braga_Schiavi_6ªC_Noturno.ipynb` | Lista com 50 exercícios de lógica e fundamentos de Python | Ago/2026 |
+| `Exercícios_NumPy_Nelson_Braga_Schiavi_6ªC_Noturno.ipynb` | Lista com 20 exercícios de lógica e fundamentos de NumPy | Ago/2026 |
+| `Exercícios_SciPy_Nelson_Braga_Schiavi_6ªC_Noturno.ipynb` | Lista com 20 exercícios de lógica e fundamentos de SciPy | Ago/2026 |
+| `Exercícios_Pandas_Nelson_Braga_Schiavi_6ªC_Noturno.ipynb` | Lista com 20 exercícios de lógica e fundamentos de Pandas | Ago/2026 |
+| `Exercícios_Matplotlib_Nelson_Braga_Schiavi_6ªC_Noturno.ipynb` | Lista com 20 exercícios de lógica e fundamentos de Matplotlib | Ago/2026 |
 
 ---
 
-## Sobre a lista de exercícios
+## Sobre a lista de exercícios Python
 
 Notebook com a resolução dos 50 exercícios propostos, organizados de forma
 sequencial. Cada exercício contém o enunciado em célula de texto, a solução
