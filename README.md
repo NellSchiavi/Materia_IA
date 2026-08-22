@@ -3,10 +3,11 @@
 Repositório da disciplina de Inteligência Artificial, contendo os notebooks
 desenvolvidos ao longo do semestre armazenando os avanços e aprendizados com a disciplina.
 
-**Aluno:** [Seu Nome Completo]  
-**Turma:** [Turma] | **Período:** [Período]  
-**Instituição:** [Nome da instituição]  
-**Semestre:** 2026/2
+**Aluno:** Nelson Braga Schiavi  
+**RGM:** 11241101950
+**Turma:** C | **Período:** 6  
+**Instituição:** UMC- Universidade de Mogi das Cruzes 
+**Semestre:** 2ª de 2026
 
 ---
 
